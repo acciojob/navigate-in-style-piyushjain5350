@@ -4,12 +4,12 @@
 	padding:0;
 	box-sizing:border-box;
 }
-.nav-bar{
+.container{
 	width:100%;
 	background-color:#D3D3D3;
 	padding:10px;
 }
-.nav-bar ul{
+.container ul{
 	display:flex;
 	list-style:none;
 }
